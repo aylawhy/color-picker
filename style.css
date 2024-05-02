@@ -1,0 +1,46 @@
+
+nav {
+
+  border: solid;
+  display: flex;
+  justify-content: center;
+  margin-top: 10%;
+  
+}
+
+li {
+  width: 100px;
+  height: 25px;
+}
+.nav-bar-list {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  font-family: "Roboto";
+  padding: 2%;
+  cursor: pointer;
+}
+
+li {
+  list-style-type: none;
+}
+
+
+
+.btn-area {
+  display: flex;
+  justify-content: center;
+}
+
+button {
+  margin-top: 10%;
+  border-radius: 50%;
+  height: 350px;
+  width: 350px;
+  font-family: Roboto;
+  font-size: 25px;
+  cursor: pointer;
+}
+
+
+
